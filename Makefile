@@ -1,4 +1,4 @@
-.PHONY: create-data
+.PHONY: create-data set-db-name
 
 .DEFAULT: create-data
 
