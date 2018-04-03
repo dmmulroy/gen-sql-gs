@@ -35,6 +35,7 @@ const createSQL = ({
 
 (() => {
   const users = [];
+  let jwtIdx = 0;
   for (let orgIdx = 0; orgIdx < orgs.length; orgIdx++) {
     // five users per org
     for (let iter = 0; iter < 5; iter++) {
@@ -44,7 +45,7 @@ const createSQL = ({
         last_name: faker.name.lastName().replace(/'/g, "\\'"),
         email: faker.internet.email(),
         password: faker.internet.password(),
-        jwt: jwts[orgIdx].value,
+        jwt: jwts[jwtIdx++].value,
         default_organization_id: orgs[orgIdx].id
       });
     }
