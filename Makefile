@@ -12,6 +12,7 @@ create-data: set-db-name
 	node ./create_roles.js
 	node ./create_role_permissions.js
 	node ./create_user_roles.js
+	node ./create_hour_requirements.js
 
 set-db-name:
 	export GS_DB_NAME=$(GS_DB_NAME)

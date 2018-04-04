@@ -2,16 +2,16 @@
   {
     "name": "Admin",
     "description": "A user in charge of a organization",
-    "id": "461dcd20-fd00-4964-b2ba-c3bb74b12241"
+    "id": "4d81684c-ee97-4ccd-9557-da6a625cd65f"
   },
   {
     "name": "Member",
     "description": "A user who is a member of an organization",
-    "id": "7590dded-446d-402b-a571-f4843313175e"
+    "id": "460fe845-4b90-4eec-a767-d30e1ba2b1b3"
   },
   {
     "name": "Advisor",
     "description": "A user who is an advisor of an organization and can view members data",
-    "id": "9c4fe105-1e88-4e3b-970e-f64dd956f6bb"
+    "id": "8ff75602-8d1d-49ab-97a1-61f2e276b963"
   }
 ]

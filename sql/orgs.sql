@@ -3,7 +3,7 @@ INSERT INTO is521sp1b21.organization (
   name,
   description
 ) VALUES (
-  '0ab0558d-1d02-4d81-9572-fbff05f6b7e5',
+  '5a8d27de-a51a-486f-99dd-a3227f12f77b',
   'Student Government Association',
   'An organization for representing students'
 );
@@ -12,7 +12,7 @@ INSERT INTO is521sp1b21.organization (
   name,
   description
 ) VALUES (
-  '6d8865dd-d4b5-4f57-bf73-8340a8c2ebd2',
+  '99095cba-a2a0-4414-8337-309937f174c6',
   'Computer Science Club',
   'An organization for students interested in CS'
 );
@@ -21,7 +21,7 @@ INSERT INTO is521sp1b21.organization (
   name,
   description
 ) VALUES (
-  '0f904da1-1292-4dc9-8dac-279cbc611833',
+  '612c62ac-de0c-4233-a99e-10a4d336dd81',
   'Ultimate Frisbee Club',
   'An organization for students interested in ultimate frisbee'
 );
@@ -30,7 +30,7 @@ INSERT INTO is521sp1b21.organization (
   name,
   description
 ) VALUES (
-  'd352aa55-2cce-46a7-b13d-c8204882e0d7',
+  '5397e314-8929-44d0-ad04-ba392050dea0',
   'Underwater Basket Weaving Club',
   'An organization for students interested in underwaster basket weaving'
 );
@@ -39,7 +39,7 @@ INSERT INTO is521sp1b21.organization (
   name,
   description
 ) VALUES (
-  '016e62ae-2b38-4b83-931a-7276f31c072a',
+  'fb10771e-4fd1-454f-a016-32910c13205b',
   'Data Science Club',
   'An organization for students interested in Data Science'
 );
@@ -48,7 +48,7 @@ INSERT INTO is521sp1b21.organization (
   name,
   description
 ) VALUES (
-  'deb8d3d6-2147-4077-b7d8-63ee66d679f7',
+  '0891c055-b826-4103-85fb-61e7b8a60760',
   'Fine Arts Appreciation Organization',
   'An organization for the appreciation of fine arts'
 );
@@ -57,7 +57,7 @@ INSERT INTO is521sp1b21.organization (
   name,
   description
 ) VALUES (
-  '363c3910-bfba-4fbe-99dc-4d8eeb17ace6',
+  '2a5a6285-1d8e-40ed-bec4-28eec1e23c33',
   'Harry Potter Club',
   'A club for fans of Harry Potter'
 );
@@ -66,7 +66,7 @@ INSERT INTO is521sp1b21.organization (
   name,
   description
 ) VALUES (
-  'fe0cc5ec-6ab7-478a-bbc8-4cd9355d4201',
+  '99a7a946-9e57-48e8-b76e-c5be6aa52a69',
   'Honors Society',
   '_The_ Honors Society'
 );
@@ -75,7 +75,7 @@ INSERT INTO is521sp1b21.organization (
   name,
   description
 ) VALUES (
-  'd673a847-bb0e-416a-9764-b8e77fc1e4ad',
+  'b2c8aa4e-e794-4767-8849-b3356794ecc9',
   'Craft Brewers Org',
   'An organization for craft brewers'
 );
@@ -84,7 +84,7 @@ INSERT INTO is521sp1b21.organization (
   name,
   description
 ) VALUES (
-  '67650e7e-0f20-4a13-8da4-d0bc4f325f37',
+  '4b6f7124-f3e8-4c4e-8023-fb5fa09bca6e',
   'Curling Team',
   'The University Curling team'
 );
@@ -93,7 +93,7 @@ INSERT INTO is521sp1b21.organization (
   name,
   description
 ) VALUES (
-  'a4d6cf95-bfe6-495f-8eaf-c993ee4dc042',
+  '2fbfb44b-51a0-4283-9d31-39066f734ffc',
   'Alpha Kappa Lambda',
   'AKL Social Fraternity'
 );
@@ -102,7 +102,7 @@ INSERT INTO is521sp1b21.organization (
   name,
   description
 ) VALUES (
-  '8c3b6538-f5eb-49d1-a3f7-20bb35d01652',
+  '0ced3396-b933-466f-9886-8e64724b3120',
   'Collegiate Entrenprenuership Organization',
   'A club for students interested in business'
 );
@@ -111,7 +111,7 @@ INSERT INTO is521sp1b21.organization (
   name,
   description
 ) VALUES (
-  '8a41376a-b8fe-44c6-8c04-6869e6240dac',
+  '0a181f1c-c2b2-4046-865f-350571e71d52',
   'Whale Watchers United',
   'Student org for whale watchers'
 );
@@ -120,7 +120,7 @@ INSERT INTO is521sp1b21.organization (
   name,
   description
 ) VALUES (
-  '1fdf085b-d685-475f-9aa8-432cef9da038',
+  '076aff7f-bf8c-447f-8576-bcf8e3359f25',
   'Fight Club',
   'We don't talk about it'
 );
@@ -129,7 +129,7 @@ INSERT INTO is521sp1b21.organization (
   name,
   description
 ) VALUES (
-  'c9e6ef48-5026-465b-bd5f-14acc74878e7',
+  '1a5ed000-fdb8-42ec-9a08-709114592c57',
   'Fine Wine & Cheese Guild',
   'For lovers of fine wine and cheese'
 );
@@ -138,7 +138,7 @@ INSERT INTO is521sp1b21.organization (
   name,
   description
 ) VALUES (
-  '70e6a895-80fb-47be-8295-3e4695d19dd2',
+  '11b28f55-acc7-41f7-a069-9151fd618c45',
   'Student Coffee Consortium',
   'Coffee snobs, mostly.'
 );
@@ -147,7 +147,7 @@ INSERT INTO is521sp1b21.organization (
   name,
   description
 ) VALUES (
-  '22831f29-bdf0-4c41-baa8-1f5142d13882',
+  'fd7fadf3-cc07-4b4f-9a40-41f5b05fb751',
   'Accounting Club',
   'We take credit or debit'
 );
@@ -156,7 +156,7 @@ INSERT INTO is521sp1b21.organization (
   name,
   description
 ) VALUES (
-  '721756a5-9b48-46f7-bb0e-bce0f557d2ba',
+  'fa84b0a9-abb4-4e58-888e-136e611cc1b4',
   'Alpha Sigma Tau',
   'AST Social Soriety'
 );
@@ -165,7 +165,7 @@ INSERT INTO is521sp1b21.organization (
   name,
   description
 ) VALUES (
-  '39b35341-d848-46e0-bbf5-6d2b8806d518',
+  '8dbb3d99-a2bc-4068-8f9a-0cdb3bdc7fc7',
   'The 19th Org',
   'Super Secret'
 );
@@ -174,7 +174,7 @@ INSERT INTO is521sp1b21.organization (
   name,
   description
 ) VALUES (
-  '543441c2-bde8-43d2-b689-13cc55f4d040',
+  '3d3d5760-183a-405c-9c14-4c3c094dc94d',
   'Polly-Sci Club',
   'Political Science Club'
 );

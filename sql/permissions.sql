@@ -3,7 +3,7 @@ INSERT INTO is521sp1b21.permission (
   name,
   description
 ) VALUES (
-  '63060e44-097d-4eb5-b44f-f92c2a648249',
+  '33258a9e-8aa1-40c5-8fd7-2d0c95845bb7',
   'ASSIGN_HOURS',
   'The ability to assign hours to users'
 );
@@ -12,7 +12,7 @@ INSERT INTO is521sp1b21.permission (
   name,
   description
 ) VALUES (
-  '52868e20-340b-4425-b74d-934d7acb4362',
+  '455ed800-5df8-4e15-be14-fd8e682ee4cb',
   'LOG_HOURS',
   'The ability to assign hours to users'
 );
@@ -21,7 +21,7 @@ INSERT INTO is521sp1b21.permission (
   name,
   description
 ) VALUES (
-  'd68c2c7a-ed06-4205-93a4-087d5f0fb539',
+  '90e4fd40-2ce7-44b8-b2d1-21d7a672f9d5',
   'VIEW_MEMBER_HOURS',
   'undefined'
 );
@@ -30,7 +30,7 @@ INSERT INTO is521sp1b21.permission (
   name,
   description
 ) VALUES (
-  '33dcc8c2-1ad2-48bf-b765-79479a49b4b9',
+  'ab9893a4-2139-499b-aa52-3f8c497fd5c7',
   'REMOVE_MEMBER',
   'The ability to remove a member from an organization'
 );
@@ -39,7 +39,7 @@ INSERT INTO is521sp1b21.permission (
   name,
   description
 ) VALUES (
-  'b7265269-63ea-422c-b0c4-683bb0b8640c',
+  '5cfd9b78-8189-4a62-8128-594e56781fed',
   'ADD_MEMBER',
   'The ability to add a member to an organization'
 );

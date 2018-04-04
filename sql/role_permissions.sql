@@ -2,48 +2,48 @@ INSERT INTO is521sp1b21.role_permission (
   role_id,
   permission_id,
 ) VALUES (
-  '461dcd20-fd00-4964-b2ba-c3bb74b12241',
-  '63060e44-097d-4eb5-b44f-f92c2a648249'
+  '4d81684c-ee97-4ccd-9557-da6a625cd65f',
+  '33258a9e-8aa1-40c5-8fd7-2d0c95845bb7'
 );
 INSERT INTO is521sp1b21.role_permission (
   role_id,
   permission_id,
 ) VALUES (
-  '461dcd20-fd00-4964-b2ba-c3bb74b12241',
-  '52868e20-340b-4425-b74d-934d7acb4362'
+  '4d81684c-ee97-4ccd-9557-da6a625cd65f',
+  '455ed800-5df8-4e15-be14-fd8e682ee4cb'
 );
 INSERT INTO is521sp1b21.role_permission (
   role_id,
   permission_id,
 ) VALUES (
-  '461dcd20-fd00-4964-b2ba-c3bb74b12241',
-  'd68c2c7a-ed06-4205-93a4-087d5f0fb539'
+  '4d81684c-ee97-4ccd-9557-da6a625cd65f',
+  '90e4fd40-2ce7-44b8-b2d1-21d7a672f9d5'
 );
 INSERT INTO is521sp1b21.role_permission (
   role_id,
   permission_id,
 ) VALUES (
-  '461dcd20-fd00-4964-b2ba-c3bb74b12241',
-  '33dcc8c2-1ad2-48bf-b765-79479a49b4b9'
+  '4d81684c-ee97-4ccd-9557-da6a625cd65f',
+  'ab9893a4-2139-499b-aa52-3f8c497fd5c7'
 );
 INSERT INTO is521sp1b21.role_permission (
   role_id,
   permission_id,
 ) VALUES (
-  '461dcd20-fd00-4964-b2ba-c3bb74b12241',
-  'b7265269-63ea-422c-b0c4-683bb0b8640c'
+  '4d81684c-ee97-4ccd-9557-da6a625cd65f',
+  '5cfd9b78-8189-4a62-8128-594e56781fed'
 );
 INSERT INTO is521sp1b21.role_permission (
   role_id,
   permission_id,
 ) VALUES (
-  '7590dded-446d-402b-a571-f4843313175e',
-  '52868e20-340b-4425-b74d-934d7acb4362'
+  '460fe845-4b90-4eec-a767-d30e1ba2b1b3',
+  '455ed800-5df8-4e15-be14-fd8e682ee4cb'
 );
 INSERT INTO is521sp1b21.role_permission (
   role_id,
   permission_id,
 ) VALUES (
-  '9c4fe105-1e88-4e3b-970e-f64dd956f6bb',
-  'd68c2c7a-ed06-4205-93a4-087d5f0fb539'
+  '8ff75602-8d1d-49ab-97a1-61f2e276b963',
+  '90e4fd40-2ce7-44b8-b2d1-21d7a672f9d5'
 );
