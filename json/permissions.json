@@ -1,0 +1,27 @@
+[
+  {
+    "name": "ASSIGN_HOURS",
+    "description": "The ability to assign hours to users",
+    "id": "63060e44-097d-4eb5-b44f-f92c2a648249"
+  },
+  {
+    "name": "LOG_HOURS",
+    "description": "The ability to assign hours to users",
+    "id": "52868e20-340b-4425-b74d-934d7acb4362"
+  },
+  {
+    "name": "VIEW_MEMBER_HOURS",
+    "desciption": "The ability to view data on other organization members",
+    "id": "d68c2c7a-ed06-4205-93a4-087d5f0fb539"
+  },
+  {
+    "name": "REMOVE_MEMBER",
+    "description": "The ability to remove a member from an organization",
+    "id": "33dcc8c2-1ad2-48bf-b765-79479a49b4b9"
+  },
+  {
+    "name": "ADD_MEMBER",
+    "description": "The ability to add a member to an organization",
+    "id": "b7265269-63ea-422c-b0c4-683bb0b8640c"
+  }
+]

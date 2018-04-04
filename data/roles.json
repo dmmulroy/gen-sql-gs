@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Admin",
+    "description": "A user in charge of a organization"
+  },
+  {
+    "name": "Member",
+    "description": "A user who is a member of an organization"
+  },
+  {
+    "name": "Advisor",
+    "description":
+      "A user who is an advisor of an organization and can view members data"
+  }
+]

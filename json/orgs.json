@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Student Government Association",
+    "description": "An organization for representing students",
+    "id": "0ab0558d-1d02-4d81-9572-fbff05f6b7e5"
+  },
+  {
+    "name": "Computer Science Club",
+    "description": "An organization for students interested in CS",
+    "id": "6d8865dd-d4b5-4f57-bf73-8340a8c2ebd2"
+  },
+  {
+    "name": "Ultimate Frisbee Club",
+    "description": "An organization for students interested in ultimate frisbee",
+    "id": "0f904da1-1292-4dc9-8dac-279cbc611833"
+  },
+  {
+    "name": "Underwater Basket Weaving Club",
+    "description": "An organization for students interested in underwaster basket weaving",
+    "id": "d352aa55-2cce-46a7-b13d-c8204882e0d7"
+  },
+  {
+    "name": "Data Science Club",
+    "description": "An organization for students interested in Data Science",
+    "id": "016e62ae-2b38-4b83-931a-7276f31c072a"
+  },
+  {
+    "name": "Fine Arts Appreciation Organization",
+    "description": "An organization for the appreciation of fine arts",
+    "id": "deb8d3d6-2147-4077-b7d8-63ee66d679f7"
+  },
+  {
+    "name": "Harry Potter Club",
+    "description": "A club for fans of Harry Potter",
+    "id": "363c3910-bfba-4fbe-99dc-4d8eeb17ace6"
+  },
+  {
+    "name": "Honors Society",
+    "description": "_The_ Honors Society",
+    "id": "fe0cc5ec-6ab7-478a-bbc8-4cd9355d4201"
+  },
+  {
+    "name": "Craft Brewers Org",
+    "description": "An organization for craft brewers",
+    "id": "d673a847-bb0e-416a-9764-b8e77fc1e4ad"
+  },
+  {
+    "name": "Curling Team",
+    "description": "The University Curling team",
+    "id": "67650e7e-0f20-4a13-8da4-d0bc4f325f37"
+  },
+  {
+    "name": "Alpha Kappa Lambda",
+    "description": "AKL Social Fraternity",
+    "id": "a4d6cf95-bfe6-495f-8eaf-c993ee4dc042"
+  },
+  {
+    "name": "Collegiate Entrenprenuership Organization",
+    "description": "A club for students interested in business",
+    "id": "8c3b6538-f5eb-49d1-a3f7-20bb35d01652"
+  },
+  {
+    "name": "Whale Watchers United",
+    "description": "Student org for whale watchers",
+    "id": "8a41376a-b8fe-44c6-8c04-6869e6240dac"
+  },
+  {
+    "name": "Fight Club",
+    "description": "We don't talk about it",
+    "id": "1fdf085b-d685-475f-9aa8-432cef9da038"
+  },
+  {
+    "name": "Fine Wine & Cheese Guild",
+    "description": "For lovers of fine wine and cheese",
+    "id": "c9e6ef48-5026-465b-bd5f-14acc74878e7"
+  },
+  {
+    "name": "Student Coffee Consortium",
+    "description": "Coffee snobs, mostly.",
+    "id": "70e6a895-80fb-47be-8295-3e4695d19dd2"
+  },
+  {
+    "name": "Accounting Club",
+    "description": "We take credit or debit",
+    "id": "22831f29-bdf0-4c41-baa8-1f5142d13882"
+  },
+  {
+    "name": "Alpha Sigma Tau",
+    "description": "AST Social Soriety",
+    "id": "721756a5-9b48-46f7-bb0e-bce0f557d2ba"
+  },
+  {
+    "name": "The 19th Org",
+    "description": "Super Secret",
+    "id": "39b35341-d848-46e0-bbf5-6d2b8806d518"
+  },
+  {
+    "name": "Polly-Sci Club",
+    "description": "Political Science Club",
+    "id": "543441c2-bde8-43d2-b689-13cc55f4d040"
+  }
+]

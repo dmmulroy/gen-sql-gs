@@ -1,0 +1,83 @@
+[
+  {
+    "name": "Student Government Association",
+    "description": "An organization for representing students"
+  },
+  {
+    "name": "Computer Science Club",
+    "description": "An organization for students interested in CS"
+  },
+  {
+    "name": "Ultimate Frisbee Club",
+    "description": "An organization for students interested in ultimate frisbee"
+  },
+  {
+    "name": "Underwater Basket Weaving Club",
+    "description":
+      "An organization for students interested in underwaster basket weaving"
+  },
+  {
+    "name": "Data Science Club",
+    "description": "An organization for students interested in Data Science"
+  },
+  {
+    "name": "Fine Arts Appreciation Organization",
+    "description": "An organization for the appreciation of fine arts"
+  },
+  {
+    "name": "Harry Potter Club",
+    "description": "A club for fans of Harry Potter"
+  },
+  {
+    "name": "Honors Society",
+    "description": "_The_ Honors Society"
+  },
+  {
+    "name": "Craft Brewers Org",
+    "description": "An organization for craft brewers"
+  },
+  {
+    "name": "Curling Team",
+    "description": "The University Curling team"
+  },
+  {
+    "name": "Alpha Kappa Lambda",
+    "description": "AKL Social Fraternity"
+  },
+  {
+    "name": "Collegiate Entrenprenuership Organization",
+    "description": "A club for students interested in business"
+  },
+  {
+    "name": "Whale Watchers United",
+    "description": "Student org for whale watchers"
+  },
+  {
+    "name": "Fight Club",
+    "description": "We don't talk about it"
+  },
+  {
+    "name": "Fine Wine & Cheese Guild",
+    "description": "For lovers of fine wine and cheese"
+  },
+  {
+    "name": "Student Coffee Consortium",
+    "description": "Coffee snobs, mostly."
+  },
+  {
+    "name": "Accounting Club",
+    "description": "We take credit or debit"
+  },
+  {
+    "name": "Alpha Sigma Tau",
+    "description": "AST Social Soriety"
+  },
+  {
+    "name": "The 19th Org",
+    "description": "Super Secret"
+  },
+  {
+    "name": "Polly-Sci Club",
+    "description": "Political Science Club"
+  }
+]

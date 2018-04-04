@@ -3,11 +3,11 @@ const fs = require('fs');
 const uuid = require('uuid').v4;
 const faker = require('faker');
 
-const createSQL = ({
-  id,
-  name,
-  description
-}) => `INSERT INTO ${process.env.GS_DB_NAME}.organization (
+const orgsSeedData = require('./data/orgs.json');
+
+const createSQL = ({ id, name, description }) => `INSERT INTO ${
+  process.env.GS_DB_NAME
+}.organization (
   id,
   name,
   description
@@ -19,14 +19,8 @@ const createSQL = ({
 `;
 
 (() => {
-  const orgs = [];
-  for (let iter = 0; iter < 20; iter++) {
-    orgs.push({
-      id: uuid(),
-      name: faker.company.companyName().replace(/'/g, "\\'"),
-      description: faker.lorem.sentence().replace(/'/g, "\\'")
-    });
-  }
+  const orgs = orgsSeedData.map(org => ({ ...org, id: uuid() }));
+
   const sql = orgs.map(createSQL).join('');
 
   fs.writeFileSync('sql/orgs.sql', sql);

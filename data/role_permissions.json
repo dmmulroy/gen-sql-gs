@@ -1,0 +1,11 @@
+{
+  "Admin": [
+    "ASSIGN_HOURS",
+    "LOG_HOURS",
+    "VIEW_MEMBER_HOURS",
+    "REMOVE_MEMBER",
+    "ADD_MEMBER"
+  ],
+  "Member": ["LOG_HOURS"],
+  "Advisor": ["VIEW_MEMBER_HOURS"]
+}

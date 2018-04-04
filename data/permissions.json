@@ -1,0 +1,22 @@
+[
+  {
+    "name": "ASSIGN_HOURS",
+    "description": "The ability to assign hours to users"
+  },
+  {
+    "name": "LOG_HOURS",
+    "description": "The ability to assign hours to users"
+  },
+  {
+    "name": "VIEW_MEMBER_HOURS",
+    "desciption": "The ability to view data on other organization members"
+  },
+  {
+    "name": "REMOVE_MEMBER",
+    "description": "The ability to remove a member from an organization"
+  },
+  {
+    "name": "ADD_MEMBER",
+    "description": "The ability to add a member to an organization"
+  }
+]
