@@ -41,8 +41,8 @@ const createSQL = ({
     for (let iter = 0; iter < 5; iter++) {
       users.push({
         id: uuid(),
-        first_name: faker.name.firstName().replace(/'/g, "\\'"),
-        last_name: faker.name.lastName().replace(/'/g, "\\'"),
+        first_name: faker.name.firstName().replace("'", "''"),
+        last_name: faker.name.lastName().replace("'", "''"),
         email: faker.internet.email(),
         password: faker.internet.password(),
         jwt: jwts[jwtIdx++].value,

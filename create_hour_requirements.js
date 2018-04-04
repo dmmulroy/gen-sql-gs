@@ -8,12 +8,12 @@ const createSQL = ({
   organization_id
 }) => `INSERT INTO ${process.env.GS_DB_NAME}.hour_requirement (
   user_id,
-  organization_id
+  organization_id,
   required_hours
 ) VALUES (
-  '${user_id}'
+  '${user_id}',
   '${organization_id}',
-  '${required_hours}',
+  ${required_hours}
 );
 `;
 
@@ -24,7 +24,7 @@ const createSQL = ({
     hourRequirements.push({
       user_id,
       organization_id,
-      required_hours: Math.round(Math.random() * 10) + 1
+      required_hours: Math.floor(Math.random() * 10) + 1
     });
   });
 

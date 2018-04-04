@@ -10,7 +10,7 @@ const createSQL = ({ role_id, permission_id }) => `INSERT INTO ${
   process.env.GS_DB_NAME
 }.role_permission (
   role_id,
-  permission_id,
+  permission_id
 ) VALUES (
   '${role_id}',
   '${permission_id}'

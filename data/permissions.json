@@ -9,7 +9,7 @@
   },
   {
     "name": "VIEW_MEMBER_HOURS",
-    "desciption": "The ability to view data on other organization members"
+    "description": "The ability to view data on other organization members"
   },
   {
     "name": "REMOVE_MEMBER",

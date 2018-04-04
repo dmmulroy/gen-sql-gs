@@ -13,7 +13,7 @@ const createSQL = ({ role_id, user_id, organization_id }) => `INSERT INTO ${
   organization_id
 ) VALUES (
   '${role_id}',
-  '${user_id}'
+  '${user_id}',
   '${organization_id}'
 );
 `;
