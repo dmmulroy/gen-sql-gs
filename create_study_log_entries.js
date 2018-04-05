@@ -55,7 +55,7 @@ const createSQL = ({
       studyLogEntries.push({
         organization_id,
         user_id,
-        entry_date: entry_date.toSQL(),
+        entry_date: `TO_DATE(${entry_date.toSQLDate()}, 'YYYY-MM-DD')`,
         start_time: new Date(entry_date).getTime(),
         end_time: new Date(entry_date.plus({ hours: hoursStudied })).getTime(),
         location: faker.random.arrayElement(locations)
